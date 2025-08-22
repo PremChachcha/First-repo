@@ -1,0 +1,85 @@
+ Java Introduction
+
+🔹 What is Java?
+
+Java is a high-level, object-oriented, platform-independent programming language developed in 1995 by James Gosling at Sun Microsystems (now owned by Oracle).
+
+
+---
+
+🔹 Features of Java
+
+1. Simple → Easy to learn, syntax similar to C/C++.
+
+
+2. Object-Oriented → Everything is based on objects (classes, objects, inheritance).
+
+
+3. Platform Independent → "Write Once, Run Anywhere" (WORA) concept.
+
+
+4. Secure → Strong memory management and security features.
+
+
+5. Robust → Automatic garbage collection and exception handling.
+
+
+6. Multithreaded → Can perform multiple tasks simultaneously.
+
+
+7. High Performance → Uses JIT (Just-In-Time) compiler for faster execution.
+
+
+
+
+---
+
+🔹 How Java Works?
+
+Java code runs in three steps:
+
+1. Write Code → Save program in a .java file
+
+
+2. Compile → Java Compiler converts it into .class file (Bytecode)
+
+
+3. Run → JVM (Java Virtual Machine) executes the Bytecode
+
+
+
+
+---
+
+🔹 First Java Program
+
+class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello, Java!");
+    }
+}
+
+✅ Output:
+
+Hello, Java!
+
+
+---
+
+🔹 Applications of Java
+
+Android App Development
+
+Web Applications (Spring, JSP, Servlets)
+
+Enterprise Software (Banking, ERP systems)
+
+Game Development
+
+Cloud-based Applications
+
+
+
+---
+
+Would you like me to also make a separate markdown file (Java_Intro.md) for your GitHub repo with this cont
